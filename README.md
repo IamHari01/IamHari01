@@ -1,7 +1,8 @@
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Building%20Autonomous%20AI%20Systems&fontAlignY=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=SELVA%20RAJA&reversal=true&fontColor=red%20%&textBg=false&fontSize=100)" />
 
 <div align="center">
+
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Building%20Autonomous%20AI%20Systems&fontAlignY=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=SELVA%20RAJA&reversal=true&fontColor=red%20%&textBg=false&fontSize=100)" />
 
 # 🚀 Selva Raja
 
