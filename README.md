@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=SELVA%20RAJA&reversal=true&fontColor=red%20%&textBg=false&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=SELVA%20RAJA&reversal=true&fontColor=black&textBg=false&fontSize=100&fontAlignY=50&animation=twinkling" />
 
 # 🚀 Selva Raja
 
