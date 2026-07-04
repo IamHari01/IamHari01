@@ -83,38 +83,6 @@ class SelvaRaja:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
-
-</div>
-
----
-
 # 🌌 Current Focus
 
 ```text
@@ -131,15 +99,15 @@ class SelvaRaja:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/selvaraja007/">
+<img src="https://www.linkedin.com/in/selvaraja007/">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<a href="https://github.com/IamHari01">
+<img src="https://github.com/IamHari01/IamHari01/">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:selvahari399@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
