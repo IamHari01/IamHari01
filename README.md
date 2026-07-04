@@ -8,6 +8,10 @@
 
 ### AI Engineer | Agentic AI Developer | RAG Systems Builder
 
+<a href="https://selvarajame-kohl.vercel.app/">My Portfolio</a>
+
+<a href="https://nexus-2-0-eight.vercel.app/">My Nexus App</a>
+
 </div>
 
 ---
