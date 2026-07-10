@@ -68,7 +68,6 @@ class SelvaRaja:
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity)
 
 ### AI & LLM
 
